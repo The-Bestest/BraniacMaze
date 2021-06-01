@@ -1,0 +1,28 @@
+calibration/BCICIV_calib_ds1a.mat
+Best score: 0.4788771929824561
+Best params: {'linearsvc__C': 100, 'selectkbest__k': 30}
+
+calibration/BCICIV_calib_ds1b.mat
+Best score: 0.4470175438596491
+Best params: {'linearsvc__C': 1, 'selectkbest__k': 1}
+
+calibration/BCICIV_calib_ds1c.mat
+Best score: 0.3991578947368421
+Best params: {'linearsvc__C': 0.1, 'selectkbest__k': 1}
+
+calibration/BCICIV_calib_ds1d.mat
+Best score: 0.424280701754386
+Best params: {'linearsvc__C': 0.1, 'selectkbest__k': 1}
+
+calibration/BCICIV_calib_ds1e.mat
+Best score: 0.4060350877192983
+Best params: {'linearsvc__C': 0.1, 'selectkbest__k': 1}
+
+calibration/BCICIV_calib_ds1f.mat
+Best score: 0.46835087719298246
+Best params: {'linearsvc__C': 0.1, 'selectkbest__k': 1}
+
+calibration/BCICIV_calib_ds1g.mat
+Best score: 0.4446315789473684
+Best params: {'linearsvc__C': 0.1, 'selectkbest__k': 1}
+
